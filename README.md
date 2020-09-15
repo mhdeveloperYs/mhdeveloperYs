@@ -1,6 +1,6 @@
 ## Hi I'm Ayoub Tamous <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ayoub Tamous Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Ayoub Tamous Full Stack Web Developer.
 
 :mailbox: Reach me out!
 
@@ -11,8 +11,8 @@ I'm Ayoub Tamous Full Stack Web Developer and Content Creator on [Youtube](https
 - 🔭 I’m currently working on **Slearn** (Professional Courses Platform).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 📫 How to reach me: contact@ayoubtamous.com.
+- 😄 Pronouns: Codev, Ayoub.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
@@ -45,7 +45,7 @@ I'm Ayoub Tamous Full Stack Web Developer and Content Creator on [Youtube](https
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
-#### What is CoderOne?
+#### What is Codev ?
 
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
@@ -66,9 +66,3 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ![AyoubTamous github stats](https://github-readme-stats.vercel.app/api?username=ayoubtamous&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
