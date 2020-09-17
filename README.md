@@ -26,7 +26,7 @@ I'm Ayoub Tamous Full Stack Web Developer.
 <br />
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](#)
 - :email: contact@ayoubtamous.com
 - :phone: (+212) 643350840
 
