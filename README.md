@@ -1,6 +1,6 @@
 ## Hi I'm Ayoub Tamous <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ayoub Tamous Full Stack Web Developer.
+I am a full time Full Stack Developer with more +5 years comprehensive experience in Web Design / Web Development / Mobile Application Development with Flutter and React Native.
 
 :mailbox: Reach me out!
 
@@ -13,9 +13,10 @@ I'm Ayoub Tamous Full Stack Web Developer.
 - 📫 How to reach me: contact@ayoubtamous.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-#### Top Technologies
+#### I' Specialized in :
 
 <!-- TODO: Make technologies links takes you to repositories -->
+
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)](#) [![VueJs Badge](https://img.shields.io/badge/-Vuejs-41B883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41B883)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![GraphQL Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611b)](#) [![MongoDB Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#) [![Laravel Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#) [![MySQL Badge](https://img.shields.io/badge/-Mysql-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F)](#)
 
