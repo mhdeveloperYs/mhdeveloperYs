@@ -17,7 +17,7 @@ I am a full time Full Stack Developer with more +5 years comprehensive experienc
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-- Front-end :
+- Front-end : <br/>
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 - Backend
