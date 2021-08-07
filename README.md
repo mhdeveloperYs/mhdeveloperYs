@@ -30,9 +30,8 @@ I am a full time Full Stack Developer with more +5 years comprehensive experienc
 <br />
 
 #### Business
-- :paperclip: [My Resume/CV](#)
 - :email: contact@ayoubtamous.com
-- :phone: (+212) 643350840
+- :phone: (+212) 655860429
 
 #### Profile Visits 
 
