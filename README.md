@@ -1,4 +1,4 @@
-## Hi I'm Josh Sauchak (AT) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm ADAM TAMOUS (AT) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I am a full time Full Stack Developer with more +5 years comprehensive experience in Web Design / Web Development / Mobile Application Development with Flutter and React Native.
 
