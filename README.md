@@ -30,9 +30,7 @@ I am a full time Full Stack Developer with more +5 years comprehensive experienc
 <br />
 
 #### Business
-- :email: contact@ayoubtamous.com
-- :phone: (+212) 655860429
-
+- :email: adamtamous@gmail.com
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayoubtamous)
