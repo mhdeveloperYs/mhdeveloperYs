@@ -10,7 +10,7 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 
 - 🔭 I’m currently working on **Freelance** FULL STACK DEVELOPER.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: contact@ayoubtamous.com.
+- 📫 How to reach me: adamtamous@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### I' Specialized in :
@@ -33,11 +33,11 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 - :email: adamtamous@gmail.com
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayoubtamous)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adamtamous)
 
 <br >
 
 #### Github Stats
 
-![AyoubTamous github stats](https://github-readme-stats.vercel.app/api?username=ayoubtamous&count_private=true&theme=tokyonight&hide=contribs,prs)
+![adamtamous github stats](https://github-readme-stats.vercel.app/api?username=ayoubtamous&count_private=true&theme=tokyonight&hide=contribs,prs)
 
