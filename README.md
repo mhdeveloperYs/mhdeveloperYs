@@ -23,8 +23,8 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 - <b>Backend :</b> <br/> </br> 
    [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![GraphQL Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611b)](#) [![MongoDB Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#) [![Laravel Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#) [![Django Badge](https://img.shields.io/badge/-Django-green?style=for-the-badge&labelColor=black&logo=django&logoColor=green)](#) [![MySQL Badge](https://img.shields.io/badge/-Mysql-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F)](#)
 
-
-
+- <b>Mobile :</b> <br/> </br> 
+   [![Nodejs Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](#)
 
 <br />
 <br />
