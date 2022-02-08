@@ -4,13 +4,13 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@adamtamous-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adamtamous)](https://twitter.com/adamtamous) [![Mail Badge](https://img.shields.io/badge/-Codev-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/adamtamous) [![Linkedin Badge](https://img.shields.io/badge/-adamtamous-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-tamous-879aab153/) [![Mail Badge](https://img.shields.io/badge/-@adamtamous.js-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/adamtamous.js/) [![Mail Badge](https://img.shields.io/badge/-adamtamous-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:contact@ayoubtamous.com)
+[![Twitter Badge](https://img.shields.io/badge/-@adamtamous-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adamtamous)](https://twitter.com/mhdeveloper) [![Mail Badge](https://img.shields.io/badge/-Codev-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/mhdeveloper) [![Linkedin Badge](https://img.shields.io/badge/-adamtamous-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-tamous-879aab153/) [![Mail Badge](https://img.shields.io/badge/-@adamtamous.js-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/adamtamous.js/) [![Mail Badge](https://img.shields.io/badge/-adamtamous-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:contact@ayoubtamous.com)
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **Freelance** FULL STACK DEVELOPER.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: adamtamous@gmail.com.
+- 📫 How to reach me: mhdeveloper99@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### I' Specialized in :
@@ -30,7 +30,7 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 <br />
 
 #### Business
-- :email: adamtamous@gmail.com
+- :email: contact@dectaweb.com
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamtamous)
@@ -39,5 +39,5 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 
 #### Github Stats
 
-![adamtamous github stats](https://github-readme-stats.vercel.app/api?username=ayoubtamous&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mhdeveloperYs github stats](https://github-readme-stats.vercel.app/api?username=mhdeveloperYs&count_private=true&theme=tokyonight&hide=contribs,prs)
 
