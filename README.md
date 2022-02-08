@@ -10,7 +10,7 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 
 - 🔭 I’m currently working on **Freelance** FULL STACK DEVELOPER.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: mhdeveloper99@gmail.com.
+- 📫 How to reach me: contact@mhdeveloper.me or mhdevloper49@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### I' Specialized in :
@@ -30,10 +30,10 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 <br />
 
 #### Business
-- :email: contact@dectaweb.com
+- :email: contact@mhdeveloper.me
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adamtamous)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mhdeveloperYs)
 
 <br >
 
