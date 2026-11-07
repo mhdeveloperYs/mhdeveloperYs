@@ -1,6 +1,6 @@
 ## Hi I'm MHDeveloper (ATamous) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a full time Full Stack Developer with more +7 years comprehensive experience in Web Design / Web Development / Mobile Application Development with Flutter and React Native.
+I am a full time Full Stack Developer with more +8 years comprehensive experience in Web Design / Web Development / Mobile Application Development with Flutter and React Native.
 
 :mailbox: Reach me out!
 
@@ -10,7 +10,7 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 
 - 🔭 I’m currently working on **Freelance** FULL STACK DEVELOPER.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: contact@mhdeveloper.me or mhdevloper49@gmail.com.
+- 📫 How to reach me: contact@atamous.me or adamtamous@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### I' Specialized in :
@@ -30,7 +30,8 @@ I am a full time Full Stack Developer with more +7 years comprehensive experienc
 <br />
 
 #### Business
-- :email: contact@mhdeveloper.me
+- :email: contact@atamous.me
+- :email: adamtamous@gmail.com
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mhdeveloperYs)
